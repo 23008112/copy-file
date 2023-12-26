@@ -42,7 +42,7 @@ print("\nFile Copied Successfully!")
 ### OUTPUT:
 ![Screenshot 2023-12-26 085057](https://github.com/23008112/copy-file/assets/138972470/5c2e7d11-a009-4a87-9982-a7b0000c0b56)
 
-![Screenshot 2023-12-26 085107](https://github.com/23008112/copy-file/assets/138972470/385fc8ac-64a6-44e3-8599-bfb1bc03c092)
+![Screenshot 2023-12-26 090113](https://github.com/23008112/copy-file/assets/138972470/1d523a50-838e-4b17-947e-72be82e336b8)
 
 ![Screenshot 2023-12-26 085128](https://github.com/23008112/copy-file/assets/138972470/9d77e242-cc20-4b16-a91e-047f61e790d5)
 
